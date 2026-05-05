@@ -28,37 +28,14 @@ It helps in analyzing business performance, identifying trends, and tracking key
 - Data Visualization
 - Business Analytics
 
----
-
-## 📂 Project Files
-- `Sales-Insights-PowerBI.pbix` → Main dashboard file
-
----
-
 ## 🚀 How to Use
 1. Download the `.pbix` file from this repository  
 2. Open it using Power BI Desktop  
 3. Explore interactive dashboards and filters  
 
----
-
-## 📸 Dashboard Preview
-(Add screenshots here for better presentation)
-
----
 
 ## 💡 Insights Gained
 - Identified high-performing regions and products  
 - Observed seasonal sales trends  
 - Improved decision-making using data visualization  
 
----
-
-## 📬 Contact
-**Anurag Raj**  
-📧 (Add your email here)  
-🔗 LinkedIn (optional)
-
----
-
-⭐ If you like this project, give it a star!
